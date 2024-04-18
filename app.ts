@@ -1,9 +1,9 @@
 // question#1
 
-function countTheNumberOfVowels(str:string):number{
+function countTheNumberOfVowels(str:string="aeiou"):number{
      return str.length;
 }
-console.log(countTheNumberOfVowels("aeiou"));
+console.log(countTheNumberOfVowels());
 
 // question#2
 function numberIsNotPrime(num1:number){
