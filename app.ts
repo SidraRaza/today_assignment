@@ -30,6 +30,8 @@ function firstNonRepeatedCharacter(string:string) {
    return null;
 }
 console.log(firstNonRepeatedCharacter("aabbnjjkkff"));
+
+// question#4
 function squareOfNumber(number:number):number{
    return number*number
 }
@@ -41,57 +43,3 @@ function displyMessage(){
    
 }
 displyMessage();
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
